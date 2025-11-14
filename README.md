@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Sumit Kolgire (Shadow)</h1>
+<h1 align="center">👋 Hey, I'm Sumit Kolgire</h1>
 
 <h3 align="center">
 AI/ML Engineer • Full-Stack Web Developer • Creative System Designer  
@@ -116,4 +116,3 @@ Combines news sentiment + stock price data to predict future trends.
 ---
 
 <h3 align="center">🚀 Always learning. Always building. Always leveling up.</h3>
-<h3 align="center">— Shadow</h3>
