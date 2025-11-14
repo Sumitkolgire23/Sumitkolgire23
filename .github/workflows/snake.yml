@@ -17,7 +17,9 @@ jobs:
         uses: Platane/snk@c3f03ab8c2ce922bbd16ce77166d53ab51e23b49
         with:
           github_user_name: Sumitkolgire23
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish to GitHub Pages
         uses: crazy-max/ghaction-github-pages@78c156f2895aaeac035fdfd01c48f76e99283a0a
