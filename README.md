@@ -76,11 +76,8 @@ Combines news sentiment + stock price data to predict future trends.
 
 <div align="center">
 
-<!-- Dark Mode -->
-<img src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-
-<!-- Light Mode -->
-<img src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/output/light.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/output/dark.svg#gh-dark-mode-only" />
 
 </div>
 
