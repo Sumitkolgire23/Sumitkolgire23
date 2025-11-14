@@ -88,9 +88,9 @@ Combines news sentiment + stock price data to predict future trends.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkolgire23&show_icons=true&theme=highcontrast" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkolgire23&layout=compact&theme=highcontrast" height="165"/>
+ <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumitkolgire23&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumitkolgire23&theme=dracula" />
 </p>
 
 <p align="center">
