@@ -89,12 +89,11 @@ Combines news sentiment + stock price data to predict future trends.
 ## 📊 GitHub Stats
 
  <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumitkolgire23&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumitkolgire23&theme=dracula" />
-</p>
+  <!-- Stats card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumitkolgire23&theme=solarized_dark" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sumitkolgire23&theme=highcontrast&no_cache=1" />
+  <!-- Most used language card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumitkolgire23&theme=solarized_dark" />
 </p>
 
 ---
