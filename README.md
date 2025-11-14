@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Sumit Kolgire </h1>
+<h1 align="center">👋 Hey, I'm Sumit Kolgire (Shadow)</h1>
 
 <h3 align="center">
 AI/ML Engineer • Full-Stack Web Developer • Creative System Designer  
@@ -69,18 +69,6 @@ Combines news sentiment + stock price data to predict future trends.
 **Tech:** Python, NLP, ML, Realtime Data  
 *(Repo coming soon)*
 
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/output/light.svg#gh-light-mode-only" />
-<img src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/output/dark.svg#gh-dark-mode-only" />
-
-</div>
-
 ---
 
 ### 🐍 GitHub Contribution Snake
@@ -94,6 +82,20 @@ Combines news sentiment + stock price data to predict future trends.
   </picture>
 </p>
 
+
+---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkolgire23&show_icons=true&theme=highcontrast" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkolgire23&layout=compact&theme=highcontrast" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkolgire23&theme=highcontrast" />
+</p>
 
 ---
 
@@ -114,3 +116,4 @@ Combines news sentiment + stock price data to predict future trends.
 ---
 
 <h3 align="center">🚀 Always learning. Always building. Always leveling up.</h3>
+<h3 align="center">— Shadow</h3>
