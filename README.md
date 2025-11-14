@@ -94,7 +94,6 @@ Combines news sentiment + stock price data to predict future trends.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkolgire23&theme=highcontrast" />
   <img src="https://streak-stats.demolab.com/?user=Sumitkolgire23&theme=highcontrast&no_cache=1" />
 </p>
 
