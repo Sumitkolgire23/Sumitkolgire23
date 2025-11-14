@@ -11,21 +11,25 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@b4ffde74da5cd3ad9742f8d2b2b4b3c6e2e6a3df
+      uses: actions/checkout@692973e3f3b4eeb8bd35f7d1f5f0d52a29f6307a
 
-    - name: Generate snake animations
-      uses: Platane/snk/gh-pages@v3
+    # Light snake
+    - name: Generate Light Snake
+      uses: Platane/snk/svg-only@756e4a04e0783dcbbaa026f3a0c2eedf2a32a9d8
       with:
-        github_user_name: Sumitkolgire23
-        outputs: |
-          dist/light.svg
-          dist/dark.svg
-        palette: |
-          github-light
-          github-dark
+        github_user_name: "Sumitkolgire23"
+        outputs: dist/light.svg
+
+    # Dark snake
+    - name: Generate Dark Snake
+      uses: Platane/snk/svg-only@756e4a04e0783dcbbaa026f3a0c2eedf2a32a9d8
+      with:
+        github_user_name: "Sumitkolgire23"
+        outputs: dist/dark.svg
+        palette: github-dark
 
     - name: Deploy to GitHub Pages
-      uses: crazy-max/ghaction-github-pages@78c156f2895aaeac035fdfd01c48f76e99283a0a
+      uses: crazy-max/ghaction-github-pages@312a52f6b09b7be1c1ea53d30de063008c33c3c0
       with:
         target_branch: output
         build_dir: dist
