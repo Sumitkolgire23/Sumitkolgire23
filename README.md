@@ -83,16 +83,17 @@ Combines news sentiment + stock price data to predict future trends.
 
 ---
 
-## 📊 GitHub Stats
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkolgire23&show_icons=true&theme=highcontrast" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkolgire23&layout=compact&theme=highcontrast" height="165"/>
+  <!-- Dark Mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <!-- Light Mode -->
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkolgire23&theme=highcontrast" />
-</p>
 
 ---
 
