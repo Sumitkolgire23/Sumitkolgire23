@@ -13,20 +13,16 @@ jobs:
     - name: Checkout
       uses: actions/checkout@b4ffde74da5cd3ad9742f8d2b2b4b3c6e2e6a3df
 
-    # Light snake
-    - name: Generate light snake
-      uses: Platane/snk/svg-only@v3
+    - name: Generate snake animations
+      uses: Platane/snk/gh-pages@v3
       with:
-        github_user_name: "Sumitkolgire23"
-        outputs: dist/github-contribution-grid-snake.svg
-
-    # Dark snake
-    - name: Generate dark snake
-      uses: Platane/snk/svg-only@v3
-      with:
-        github_user_name: "Sumitkolgire23"
-        outputs: dist/github-contribution-grid-snake-dark.svg
-        palette: "github-dark"
+        github_user_name: Sumitkolgire23
+        outputs: |
+          dist/light.svg
+          dist/dark.svg
+        palette: |
+          github-light
+          github-dark
 
     - name: Deploy to GitHub Pages
       uses: crazy-max/ghaction-github-pages@78c156f2895aaeac035fdfd01c48f76e99283a0a
