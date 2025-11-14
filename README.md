@@ -1,82 +1,116 @@
-## 👋 Hi, I'm Sumit Kolgire  
-**AI/ML Engineer | Full-Stack Web Developer | Intelligent Systems Designer**
+<h1 align="center">👋 Hey, I'm Sumit Kolgire </h1>
 
-I specialize in building intelligent systems, modern web applications, and multi-agent architectures that blend machine learning, automation, and scalable engineering.  
-Currently pursuing a B.E. in Artificial Intelligence & Machine Learning (2023–2027).
-
----
-
-## 🧠 About Me  
-- AI/ML engineer focused on real-world applications of LLMs, NLP, deep learning, and autonomous agents.  
-- Web developer with experience in scalable, production-ready full-stack systems.  
-- Strong interest in system design, multi-agent cooperation, automation pipelines, and intelligent ecosystems.  
-- I enjoy designing projects that merge **AI + systems thinking + clean architecture**.
+<h3 align="center">
+AI/ML Engineer • Full-Stack Web Developer • Creative System Designer  
+</h3>
 
 ---
 
-## 🛠️ Technical Skills  
+## 🔥 About Me  
+I'm a **Web Developer + AI/ML Engineer** passionate about building intelligent systems, modern web apps, and futuristic multi-agent environments.
 
-### **Machine Learning & AI**
-TensorFlow, PyTorch, Scikit-Learn, LLMs, NLP, Computer Vision, Reinforcement Learning, Agents, Prompt Engineering
+I'm currently working on:
 
-### **Web Development**
-Next.js, React, Node.js, Express, Supabase, Firebase, REST APIs, GitHub Actions, Vercel
+🚀 **NOVELMAN** – A full-scale Web Novel platform (Next.js + Supabase)  
+🤖 **Multi-Agent Virtual Company** – Autonomous AI agents simulating a real startup  
+📈 **Stock Sentiment Predictor** – Real-time stock prediction using NLP + ML  
+🧠 **AIML Worldbuilding Framework** – Connecting AI, systems, and world design  
+📚 Learning advanced **Deep Learning + Reinforcement Learning + Agents**  
 
-### **Tools & Foundations**
-Python, JavaScript, TypeScript, Linux, Git, Docker (basics), Colab, Jupyter, VS Code  
-System Design, API Design, Databases, Architectural Patterns
+I love connecting **AI + Web + Systems**, and I’m always exploring the next boundary.
 
 ---
 
-## 🚀 Featured Projects  
+## 🛠 Tech Stack & Tools
 
-### **1. NOVELMAN • Web Novel Platform**
-A full-scale reading platform with chapters, reader UI, admin panel, Supabase backend, animations, and advanced UX.  
+### **🚀 AI / Machine Learning**
+- Python, NumPy, Pandas, Scikit-learn  
+- TensorFlow / Keras, PyTorch  
+- NLP, Transformers, BERT  
+- LLMs, Multi-Agent Systems  
+- Data Processing, Model Deployment  
+
+### **🌐 Web Development**
+- HTML, CSS, JavaScript, TypeScript  
+- React.js / Next.js  
+- TailwindCSS  
+- REST APIs, Node.js  
+- Supabase, Firebase  
+- Git, GitHub, Vercel  
+
+### **⚙️ Tools I Use Daily**
+- VS Code  
+- Jupyter Notebooks  
+- Google Colab  
+- Postman  
+- GitHub Projects / Issues  
+- Notion  
+
+---
+
+## 🚀 Featured Projects
+
+### **📘 NOVELMAN – Web Novel Platform**
+A production-level novel reading platform with chapters, reader UI, admin panel, Supabase backend, animations, and advanced UX.  
 **Tech:** Next.js, TypeScript, Supabase, Tailwind, Framer Motion  
-*(Coming public soon)*
+🔗 *Repo:* (Coming Soon Public)
 
 ---
 
-### **2. Multi-Agent Virtual Company**
+### **🤖 Multi-Agent Virtual Company**
 A virtual startup simulation where autonomous agents (CEO, Developer, Designer, Marketer) collaborate to build products.  
 **Tech:** Python, Agents, LLMs, System Design  
-🔗 Repo: https://github.com/Sumitkolgire23/multi-agent-virtual-company
+🔗 https://github.com/Sumitkolgire23/multi-agent-virtual-company
 
 ---
 
-### **3. Stock Sentiment Price Predictor**
-Real-time stock predictions using ML + NLP + news sentiment analysis.  
-**Tech:** Python, NLP, ML  
+### **📈 Stock Sentiment Price Predictor**
+Combines news sentiment + stock price data to predict future trends.  
+**Tech:** Python, NLP, ML, Realtime Data  
 *(Repo coming soon)*
 
----
-
-## 🐍 GitHub Contribution Snake  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 ---
 
-## 📊 GitHub Stats  
+### 🐍 GitHub Contribution Snake
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sumitkolgire23&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkolgire23&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/output/light.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/output/dark.svg#gh-dark-mode-only" />
 
 </div>
 
 ---
 
-## 🎯 What I'm Focusing On in 2025
-- Building production-grade AI/ML systems  
-- Expanding work in autonomous agents and intelligent automation  
-- Improving mastery of LLMs, deep learning, and high-level system design  
-- Delivering complete end-to-end apps and open-source tools  
-- Becoming industry-ready for ML engineering and full-stack roles  
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <!-- Dark Mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <!-- Light Mode -->
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 
 ---
 
-## 📫 Contact  
-**LinkedIn:** https://www.linkedin.com/in/sumit-kolgire  
-**Email:** sumitkolgire123@gmail.com  
+## 🌟 What I’m Focusing on in 2025
+- Building intelligent systems using **AI + Web + Multi-Agent architecture**  
+- Creating production-level projects with amazing UI/UX  
+- Mastering Deep Learning & Neural Networks  
+- Growing as a developer, creator, and storyteller  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **sumitkolgire123@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/sumit-kolgire  
+- 🧠 GitHub: **Sumitkolgire23**
+
+---
+
+<h3 align="center">🚀 Always learning. Always building. Always leveling up.</h3>
