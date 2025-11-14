@@ -69,14 +69,22 @@ Combines news sentiment + stock price data to predict future trends.
 **Tech:** Python, NLP, ML, Realtime Data  
 *(Repo coming soon)*
 
+
 ---
 
 ### 🐍 GitHub Contribution Snake
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/output/github-contribution-grid-snake-dark.svg" />
+
+<!-- Dark mode version -->
+<img src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+
+<!-- Light mode version -->
+<img src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+
 </div>
 
-
+---
 
 ## 📊 GitHub Stats
 
